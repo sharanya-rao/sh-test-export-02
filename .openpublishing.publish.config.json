@@ -32,6 +32,5 @@
     }
   ],
   "need_generate_pdf_url_template": false,
-  "enable_custom_validation": true,
-  "enable_branch_build_custom_validation": true
+  "ReportUnchangedFilesWithMoreWarnings": true
 }
